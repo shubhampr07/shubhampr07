@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🔭 I’m currently working on **Mern Projects**
+- 🔭 I’m currently working on **Full Stack Projects**
 
 - 👨‍💻 All of my projects are available at [https://shubhampr.netlify.app](https://shubhampr.netlify.app)
-
-- 💬 Ask me about **Mern**
 
 - 📫 How to reach me **shubhampaul756@gmail.com**
 
